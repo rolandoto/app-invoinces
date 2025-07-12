@@ -331,7 +331,6 @@ const titleStyle = {
                   </div>
         <div className="mt-8 text-center text-sm text-gray-500">
           <p>© 2025 Generador de Cuentas de Cobro</p>
-          <p className="mt-1">Edilberto José Boscán Alcántara - CC: 1017277279</p>
         </div>
       </div>
     </div>
