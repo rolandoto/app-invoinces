@@ -89,7 +89,7 @@ const titleStyle = {
           pdf.text(110, 50, `CC: ${documentCompany}`);
           pdf.text(100, 80, `DEBE A:`);
           pdf.text(100, 89, `LEWIS BOSCAN`);
-          pdf.text(100, 98, `CC: 1017277279`);
+          pdf.text(100, 98, `CC: 1017277701`);
 
           pdf.text(30, 142, `Concepto`);
           pdf.text(200, 142, `Valor unitario`);
